@@ -24,7 +24,7 @@
         <a href="../../index2.html" class="h1"><b>Admin</b>Login</a>
       </div>
       <div class="card-body">
-        <p class="login-box-msg">user Login for user panel
+        <p class="login-box-msg">Admin by jeeel Login for user panel
         </p>
 
         <form action="../../index3.html" method="post">
